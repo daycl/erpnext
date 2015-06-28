@@ -10,7 +10,7 @@ setup(
     version=version,
     description='Open Source ERP',
     author='Frappe Technologies',
-    author_email='info@erpnext.com',
+    author_email='info@shanshuiwuyuan.com',
     packages=find_packages(),
     zip_safe=False,
     include_package_data=True,

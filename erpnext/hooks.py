@@ -1,13 +1,13 @@
 from __future__ import unicode_literals
-app_name = "erpnext"
-app_title = "ERPNext"
+app_name = "Torino"
+app_title = "Torino"
 app_publisher = "Frappe Technologies Pvt. Ltd. and Contributors"
 app_description = "Open Source Enterprise Resource Planning for Small and Midsized Organizations"
 app_icon = "icon-th"
 app_color = "#e74c3c"
 app_version = "5.0.18"
 
-error_report_email = "support@erpnext.com"
+error_report_email = "support@shanshuiwuyuan.com"
 
 app_include_js = "assets/js/erpnext.min.js"
 app_include_css = "assets/css/erpnext.css"
@@ -95,7 +95,7 @@ scheduler_events = {
 }
 
 default_mail_footer = """<div style="padding: 15px; text-align: center;">
-	<a href="https://erpnext.com?source=via_email_footer" target="_blank" style="color: #8d99a6;">
+	<a href="https://Torino.com?source=via_email_footer" target="_blank" style="color: #8d99a6;">
 		Sent via ERPNext
 	</a>
 </div>"""
