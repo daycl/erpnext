@@ -7,7 +7,7 @@ frappe.provide('erpnext');
 $(document).bind('toolbar_setup', function() {
 	frappe.app.name = "ERPNext";
 
-	$('.navbar-home').html('ERPNext');
+	$('.navbar-home').html('山水物源');
 
 	$('[data-link="docs"]').attr("href", "https://manual.erpnext.com")
 });
