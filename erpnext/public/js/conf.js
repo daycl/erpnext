@@ -9,7 +9,7 @@ $(document).bind('toolbar_setup', function() {
 
 	$('.navbar-home').html('山水物源');
 
-	$('[data-link="docs"]').attr("href", "https://manual.erpnext.com")
+	// $('[data-link="docs"]').attr("href", "https://manual.erpnext.com")
 });
 
 // doctypes created via tree
