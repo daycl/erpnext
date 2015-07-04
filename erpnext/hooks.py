@@ -1,5 +1,5 @@
 from __future__ import unicode_literals
-app_name = "Torino"
+app_name = "erpnext"
 app_title = "Torino"
 app_publisher = "Frappe Technologies Pvt. Ltd. and Contributors"
 app_description = "Open Source Enterprise Resource Planning for Small and Midsized Organizations"
